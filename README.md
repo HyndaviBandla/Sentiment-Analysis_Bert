@@ -1,4 +1,4 @@
-Exercise: Things you can try out to fine-tune BERT
+ Things you can try out to fine-tune BERT
 
 
 In this module, we fine-tuned a pre-trained BERT model with a twitter dataset. Now here are a few things that you can try to further improve the model's performance:
